@@ -1,0 +1,16 @@
+D:\Documentos\Codigos\Localiza\DIOBank\bin\Debug\net5.0\DIOBank.exe
+D:\Documentos\Codigos\Localiza\DIOBank\bin\Debug\net5.0\DIOBank.deps.json
+D:\Documentos\Codigos\Localiza\DIOBank\bin\Debug\net5.0\DIOBank.runtimeconfig.json
+D:\Documentos\Codigos\Localiza\DIOBank\bin\Debug\net5.0\DIOBank.runtimeconfig.dev.json
+D:\Documentos\Codigos\Localiza\DIOBank\bin\Debug\net5.0\DIOBank.dll
+D:\Documentos\Codigos\Localiza\DIOBank\bin\Debug\net5.0\ref\DIOBank.dll
+D:\Documentos\Codigos\Localiza\DIOBank\bin\Debug\net5.0\DIOBank.pdb
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\DIOBank.csprojAssemblyReference.cache
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\DIOBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\DIOBank.AssemblyInfoInputs.cache
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\DIOBank.AssemblyInfo.cs
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\DIOBank.csproj.CoreCompileInputs.cache
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\DIOBank.dll
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\ref\DIOBank.dll
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\DIOBank.pdb
+D:\Documentos\Codigos\Localiza\DIOBank\obj\Debug\net5.0\DIOBank.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\primeiros-passos.csprojAssemblyReference.cache
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\primeiros-passos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\primeiros-passos.AssemblyInfoInputs.cache
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\primeiros-passos.AssemblyInfo.cs
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\primeiros-passos.csproj.CoreCompileInputs.cache
+D:\Documentos\Codigos\Localiza\primeiros-passos\bin\Debug\net5.0\primeiros-passos.exe
+D:\Documentos\Codigos\Localiza\primeiros-passos\bin\Debug\net5.0\primeiros-passos.deps.json
+D:\Documentos\Codigos\Localiza\primeiros-passos\bin\Debug\net5.0\primeiros-passos.runtimeconfig.json
+D:\Documentos\Codigos\Localiza\primeiros-passos\bin\Debug\net5.0\primeiros-passos.runtimeconfig.dev.json
+D:\Documentos\Codigos\Localiza\primeiros-passos\bin\Debug\net5.0\primeiros-passos.dll
+D:\Documentos\Codigos\Localiza\primeiros-passos\bin\Debug\net5.0\ref\primeiros-passos.dll
+D:\Documentos\Codigos\Localiza\primeiros-passos\bin\Debug\net5.0\primeiros-passos.pdb
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\primeiros-passos.dll
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\ref\primeiros-passos.dll
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\primeiros-passos.pdb
+D:\Documentos\Codigos\Localiza\primeiros-passos\obj\Debug\net5.0\primeiros-passos.genruntimeconfig.cache

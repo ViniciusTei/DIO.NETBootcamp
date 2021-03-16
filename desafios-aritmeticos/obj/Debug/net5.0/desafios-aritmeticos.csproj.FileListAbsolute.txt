@@ -1,0 +1,16 @@
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\bin\Debug\net5.0\desafios-aritmeticos.exe
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\bin\Debug\net5.0\desafios-aritmeticos.deps.json
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\bin\Debug\net5.0\desafios-aritmeticos.runtimeconfig.json
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\bin\Debug\net5.0\desafios-aritmeticos.runtimeconfig.dev.json
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\bin\Debug\net5.0\desafios-aritmeticos.dll
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\bin\Debug\net5.0\ref\desafios-aritmeticos.dll
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\bin\Debug\net5.0\desafios-aritmeticos.pdb
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\desafios-aritmeticos.csprojAssemblyReference.cache
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\desafios-aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\desafios-aritmeticos.AssemblyInfoInputs.cache
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\desafios-aritmeticos.AssemblyInfo.cs
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\desafios-aritmeticos.csproj.CoreCompileInputs.cache
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\desafios-aritmeticos.dll
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\ref\desafios-aritmeticos.dll
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\desafios-aritmeticos.pdb
+D:\Documentos\Codigos\Localiza\desafios-aritmeticos\obj\Debug\net5.0\desafios-aritmeticos.genruntimeconfig.cache

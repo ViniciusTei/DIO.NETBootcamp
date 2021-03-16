@@ -1,0 +1,16 @@
+D:\Documentos\Codigos\Localiza\aumento-de-salario\bin\Debug\net5.0\aumento-de-salario.exe
+D:\Documentos\Codigos\Localiza\aumento-de-salario\bin\Debug\net5.0\aumento-de-salario.deps.json
+D:\Documentos\Codigos\Localiza\aumento-de-salario\bin\Debug\net5.0\aumento-de-salario.runtimeconfig.json
+D:\Documentos\Codigos\Localiza\aumento-de-salario\bin\Debug\net5.0\aumento-de-salario.runtimeconfig.dev.json
+D:\Documentos\Codigos\Localiza\aumento-de-salario\bin\Debug\net5.0\aumento-de-salario.dll
+D:\Documentos\Codigos\Localiza\aumento-de-salario\bin\Debug\net5.0\ref\aumento-de-salario.dll
+D:\Documentos\Codigos\Localiza\aumento-de-salario\bin\Debug\net5.0\aumento-de-salario.pdb
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\aumento-de-salario.csprojAssemblyReference.cache
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\aumento-de-salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\aumento-de-salario.AssemblyInfoInputs.cache
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\aumento-de-salario.AssemblyInfo.cs
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\aumento-de-salario.csproj.CoreCompileInputs.cache
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\aumento-de-salario.dll
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\ref\aumento-de-salario.dll
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\aumento-de-salario.pdb
+D:\Documentos\Codigos\Localiza\aumento-de-salario\obj\Debug\net5.0\aumento-de-salario.genruntimeconfig.cache

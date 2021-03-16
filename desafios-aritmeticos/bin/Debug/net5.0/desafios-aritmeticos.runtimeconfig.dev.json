@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vinit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vinit\\.nuget\\packages"
+    ]
+  }
+}
